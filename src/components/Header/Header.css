@@ -1,0 +1,16 @@
+.header{
+    background-color: rgba(45, 45, 63, 0.678);
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+    padding:0 100px 0 100px ;
+}
+.header a{
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+}
+.header a:hover{
+    color: cadetblue;
+}
